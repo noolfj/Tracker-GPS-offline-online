@@ -740,7 +740,6 @@ class LocationDao {
 }
 
 // void sendNotification(String text) {
-//   // Реализация уведомлений закомментирована, оставлена как есть
 // }
 
 void sendNotification(String text) {
